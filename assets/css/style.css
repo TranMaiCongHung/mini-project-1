@@ -337,8 +337,12 @@
 /* End Contact Form */
 
 /* Our Goal  */
+.our-goal {
+    margin: 70px;
+}
 .our-goal .inner-sub-title {
-    margin-top: 60px;
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 
 .our-goal .inner-title {
