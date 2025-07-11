@@ -433,6 +433,58 @@
 }
 /* end core-freature */
 
+/* careers */
+.careers {
+    background: #1b2026;
+    padding: 80px;
+}
+
+.careers .inner-wrap {
+    background-color: #fff;
+    padding: 60px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.careers .inner-wrap .inner-content {
+    width: 60%;
+    font-weight: 700;
+}
+
+.careers .inner-wrap .inner-sub-title {
+    color: #777777;
+    margin-bottom: 20px;
+}
+
+.careers .inner-wrap .inner-title {
+    font-size: 60px;
+}
+
+.careers .inner-wrap .inner-item-list {
+    width: 40%;
+}
+
+.careers .inner-wrap .inner-item {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid var(--bg-1);
+    margin-bottom: 20px;
+    padding: 25px;
+    border-radius: 10px;
+    color: #777777;
+}
+.careers .inner-wrap .inner-item .inner-icon-text {
+    display: flex;
+}
+
+.careers .inner-wrap .inner-item .inner-icon-text i {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+/* end careers */
+
 /* Buttons */
 .button {
     color: var(--color-text);
