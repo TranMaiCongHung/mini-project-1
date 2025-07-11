@@ -391,9 +391,10 @@
  }
  .core-feature .inner-wrap .inner-list {
     width: 33%;
-    margin: 10px;
+    margin: 15px;
     border-radius: 8px;
     overflow: hidden;
+    cursor: pointer;
  }
   .core-feature .inner-wrap .inner-img {
     position: relative;
